@@ -1,0 +1,14 @@
+C:\Users\bilgea\Desktop\VizyoneksEgitim\FirstNetCoreEmptyProject\FirstNetCoreEmptyProject\bin\Debug\netcoreapp2.1\FirstNetCoreEmptyProject.deps.json
+C:\Users\bilgea\Desktop\VizyoneksEgitim\FirstNetCoreEmptyProject\FirstNetCoreEmptyProject\bin\Debug\netcoreapp2.1\FirstNetCoreEmptyProject.runtimeconfig.json
+C:\Users\bilgea\Desktop\VizyoneksEgitim\FirstNetCoreEmptyProject\FirstNetCoreEmptyProject\bin\Debug\netcoreapp2.1\FirstNetCoreEmptyProject.runtimeconfig.dev.json
+C:\Users\bilgea\Desktop\VizyoneksEgitim\FirstNetCoreEmptyProject\FirstNetCoreEmptyProject\bin\Debug\netcoreapp2.1\FirstNetCoreEmptyProject.dll
+C:\Users\bilgea\Desktop\VizyoneksEgitim\FirstNetCoreEmptyProject\FirstNetCoreEmptyProject\bin\Debug\netcoreapp2.1\FirstNetCoreEmptyProject.pdb
+C:\Users\bilgea\Desktop\VizyoneksEgitim\FirstNetCoreEmptyProject\FirstNetCoreEmptyProject\obj\Debug\netcoreapp2.1\FirstNetCoreEmptyProject.csproj.CoreCompileInputs.cache
+C:\Users\bilgea\Desktop\VizyoneksEgitim\FirstNetCoreEmptyProject\FirstNetCoreEmptyProject\obj\Debug\netcoreapp2.1\FirstNetCoreEmptyProject.RazorAssemblyInfo.cache
+C:\Users\bilgea\Desktop\VizyoneksEgitim\FirstNetCoreEmptyProject\FirstNetCoreEmptyProject\obj\Debug\netcoreapp2.1\FirstNetCoreEmptyProject.RazorAssemblyInfo.cs
+C:\Users\bilgea\Desktop\VizyoneksEgitim\FirstNetCoreEmptyProject\FirstNetCoreEmptyProject\obj\Debug\netcoreapp2.1\FirstNetCoreEmptyProject.AssemblyInfoInputs.cache
+C:\Users\bilgea\Desktop\VizyoneksEgitim\FirstNetCoreEmptyProject\FirstNetCoreEmptyProject\obj\Debug\netcoreapp2.1\FirstNetCoreEmptyProject.AssemblyInfo.cs
+C:\Users\bilgea\Desktop\VizyoneksEgitim\FirstNetCoreEmptyProject\FirstNetCoreEmptyProject\obj\Debug\netcoreapp2.1\FirstNetCoreEmptyProject.RazorTargetAssemblyInfo.cache
+C:\Users\bilgea\Desktop\VizyoneksEgitim\FirstNetCoreEmptyProject\FirstNetCoreEmptyProject\obj\Debug\netcoreapp2.1\FirstNetCoreEmptyProject.dll
+C:\Users\bilgea\Desktop\VizyoneksEgitim\FirstNetCoreEmptyProject\FirstNetCoreEmptyProject\obj\Debug\netcoreapp2.1\FirstNetCoreEmptyProject.pdb
+C:\Users\bilgea\Desktop\VizyoneksEgitim\FirstNetCoreEmptyProject\FirstNetCoreEmptyProject\obj\Debug\netcoreapp2.1\FirstNetCoreEmptyProject.csprojAssemblyReference.cache

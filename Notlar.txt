@@ -1,0 +1,57 @@
+﻿30.11.2018
+
+Nopcommerce : https://github.com/nopSolutions/nopCommerce
+Aspnet boilerplate  : https://github.com/aspnetboilerplate/aspnetboilerplate
+Orchard : 
+Bettercms
+
+
+
+
+01.12.2018
+
+Domain Driven Design
+Cqrs
+Onion Architecture,
+Microservices
+
+Devops
+
+Görev 1 : Commandline kullanarak 1 tane mvc projesi oluşturun.
+		a. Https olmadan oluşturulsun
+		b. Projeye isim verilerek oluşturulsun.
+
+Görev 2 : Projeye yeni bir resim eklenecek. Javascript dosyası eklenip uygulamadan çağrılacak.
+		a.Javascript ile alert verilecek.
+
+Görev 3 : Mevcut projeye yeni bir sayfa eklenecek. Sayfa default layout'u kullanacak.
+		  Sayfa başlığı "Yeni ürün girişi olacak". Sayfa'nın url'i /urunler/urun-ekle
+		  
+Görev 4 : Ürün kayıt formu eklenecek. Action'a veriler gönderilecek. 
+		  - Ürün Adı : 
+		  - Fiyatı : 
+		  - Stok : 
+		  - Ürün Resmi
+		  - Markası : Renault, Merco, Bmw, Citroen, Honda
+
+Görev 5 : Mvc uygulamasındaki gibi bir fakeDataRepository içerisine kaydedecek. Daha sonra ürün listeleme sayfasında eklenen ürünler gösterilecek. 
+
+Görev 6 : Repository pattern ile oluşturduğumuz interface ve implemente edilmiş class'ı .net core 'da bulunan DI container'a register edip interface üzerinden çalışmasını sağlamak. 
+
+Görev 7 : Kayıt, listeleme ve arama işlemlerini Db üzerinden yapmak. 
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  

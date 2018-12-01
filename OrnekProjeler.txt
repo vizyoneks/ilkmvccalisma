@@ -1,6 +1,0 @@
-﻿
-
-Nopcommerce : https://github.com/nopSolutions/nopCommerce
-Aspnet boilerplate  : https://github.com/aspnetboilerplate/aspnetboilerplate
-Orchard : 
-Bettercms
