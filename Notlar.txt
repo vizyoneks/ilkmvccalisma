@@ -41,6 +41,8 @@ Görev 6 : Repository pattern ile oluşturduğumuz interface ve implemente edilm
 Görev 7 : Kayıt, listeleme ve arama işlemlerini Db üzerinden yapmak. 
 		  
 		  
+12.07.2018
+Microservice örnek proje https://github.com/dotnet-architecture/eShopOnContainers
 		  
 		  
 		  
