@@ -58,7 +58,8 @@ https://microservices.io/
 ACID
 CAP
 
-		  
+
+Custom Middleware 'de Dependency injection nasıl uygulanır? Options nasıl verilir?
 		  
 		  
 		  

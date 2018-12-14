@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
+using AspnetCoreMiddleWares.Middlewares;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -49,8 +50,14 @@ namespace AspnetCoreMiddleWares
 
             app.Map("/admin", config => config.Use(async (context, next) =>
             {
+                if (context.User.Identity.IsAuthenticated)
+                {
+
+                }
                 await context.Response.WriteAsync("Yetkiniz yok");
             }));
+
+            //eğer gelen istek post değilse ve url sepete-at ise anasayfaya gönderen bir middleware yazınız.
 
             app.Use(async (context, next) =>
             {
@@ -64,6 +71,12 @@ namespace AspnetCoreMiddleWares
                     await context.Response.WriteAsync("Hello, World!");
                 }
             });
+
+            app.UseAuthControl();
+
+            app.MapWhen(config => !config.Request.Method.Equals("POST") && config.Request.Path == "/sepete-at", appBuilder => appBuilder.Run(async context => {
+                 context.Response.Redirect("/");
+            }));
 
             //Short circuit
             //app.Run(async context =>
