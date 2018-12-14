@@ -34,3 +34,8 @@ C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples\obj\Debug\netcor
 C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.g.cshtml.cs
 C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Carousel.g.cshtml.cs
 C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples\obj\Debug\netcoreapp2.1\Razor\Views\Product\Detail.g.cshtml.cs
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Dashboard\Index.g.cshtml.cs
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples\obj\Debug\netcoreapp2.1\Razor\Areas\Uretim\Views\Home\Index.g.cshtml.cs
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.g.cshtml.cs
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples\obj\Debug\netcoreapp2.1\Razor\Areas\Uretim\Views\_ViewImports.g.cshtml.cs

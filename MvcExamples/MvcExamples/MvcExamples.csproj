@@ -11,6 +11,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Models\" />
+    <Folder Include="Areas\Uretim\Data\" />
+    <Folder Include="Areas\Uretim\Models\" />
     <Folder Include="wwwroot\themes\less\oregional\" />
   </ItemGroup>
 

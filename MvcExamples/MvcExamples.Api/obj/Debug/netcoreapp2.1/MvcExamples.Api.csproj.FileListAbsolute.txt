@@ -1,0 +1,14 @@
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples.Api\bin\Debug\netcoreapp2.1\MvcExamples.Api.deps.json
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples.Api\bin\Debug\netcoreapp2.1\MvcExamples.Api.runtimeconfig.json
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples.Api\bin\Debug\netcoreapp2.1\MvcExamples.Api.runtimeconfig.dev.json
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples.Api\bin\Debug\netcoreapp2.1\MvcExamples.Api.dll
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples.Api\obj\Debug\netcoreapp2.1\MvcExamples.Api.csprojAssemblyReference.cache
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples.Api\obj\Debug\netcoreapp2.1\MvcExamples.Api.csproj.CoreCompileInputs.cache
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples.Api\obj\Debug\netcoreapp2.1\MvcExamples.Api.RazorAssemblyInfo.cache
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples.Api\obj\Debug\netcoreapp2.1\MvcExamples.Api.RazorAssemblyInfo.cs
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples.Api\obj\Debug\netcoreapp2.1\MvcExamples.Api.AssemblyInfoInputs.cache
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples.Api\obj\Debug\netcoreapp2.1\MvcExamples.Api.AssemblyInfo.cs
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples.Api\obj\Debug\netcoreapp2.1\MvcExamples.Api.RazorTargetAssemblyInfo.cache
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples.Api\bin\Debug\netcoreapp2.1\MvcExamples.Api.pdb
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples.Api\obj\Debug\netcoreapp2.1\MvcExamples.Api.dll
+C:\Users\bilgea\Desktop\VizyoneksEgitim\MvcExamples\MvcExamples.Api\obj\Debug\netcoreapp2.1\MvcExamples.Api.pdb
