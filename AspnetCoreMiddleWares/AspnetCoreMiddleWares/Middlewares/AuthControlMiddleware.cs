@@ -22,6 +22,8 @@ namespace AspnetCoreMiddleWares.Middlewares
             {
                 await context.Response.WriteAsync("Yetkiniz yok");
             }
+
+            await _next(context);
         }
     }
 
