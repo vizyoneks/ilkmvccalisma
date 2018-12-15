@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "About";
+
+    var cities = new List<string>() { "İstanbul", "Ankara" };
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<p>Use this area to provide additional information.</p>
+
+
+<ul items="cities"></ul>
+
+<select asp-items="new SelectList(cities)"></select>

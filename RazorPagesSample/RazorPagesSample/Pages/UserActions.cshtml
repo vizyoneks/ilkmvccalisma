@@ -1,0 +1,36 @@
+﻿@page
+@model RazorPagesSample.Pages.UserActionsModel
+@{
+    ViewData["Title"] = "UserActions";
+}
+
+<h2>UserActions</h2>
+
+<fieldset title="User Register">
+    <legend>User Register:</legend>
+    <form method="post">
+        <label asp-for="RegistrationInfo.UserName"></label>
+        <input asp-for="RegistrationInfo.UserName" /><br />
+
+        <label asp-for="RegistrationInfo.Email"></label>
+        <input asp-for="RegistrationInfo.Email" /><br />
+
+        <label asp-for="RegistrationInfo.Password"></label>
+        <input asp-for="RegistrationInfo.Password" /><br />
+
+        <input type="submit" value="Register" asp-page-handler="OnPostRegister" />
+    </form>
+</fieldset>
+<br /><br />
+<fieldset title="User Login">
+    <legend>User Login:</legend>
+    <form method="post">
+        <label asp-for="RegistrationInfo.Email"></label>
+        <input asp-for="RegistrationInfo.Email" /><br />
+
+        <label asp-for="RegistrationInfo.Password"></label>
+        <input asp-for="RegistrationInfo.Password" /><br />
+
+        <input type="submit" value="Login" asp-page-handler="OnPostLogin" />
+    </form>
+</fieldset>

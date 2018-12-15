@@ -1,0 +1,21 @@
+﻿@page
+@model RazorPagesSample.Pages.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h2>Register</h2>
+
+<form method="post">
+    <label asp-for="RegistrationInfo.UserName"></label>
+    <input asp-for="RegistrationInfo.UserName" /><br />
+
+    <label asp-for="RegistrationInfo.Email"></label>
+    <input asp-for="RegistrationInfo.Email" /><br />
+
+    <label asp-for="RegistrationInfo.Password"></label>
+    <input asp-for="RegistrationInfo.Password" /><br />
+
+    <input type="submit" value="Register"/>
+</form>
+

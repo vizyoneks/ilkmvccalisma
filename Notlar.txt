@@ -61,6 +61,10 @@ CAP
 
 Custom Middleware 'de Dependency injection nasıl uygulanır? Options nasıl verilir?
 
+15.12.2018
+
+Elasticsearch - Logstash- Kibana -> Log ve monitoring
+
 
 		  
 		  
